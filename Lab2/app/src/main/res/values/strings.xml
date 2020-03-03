@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SecondLab</string>
+
+    <string-array name = "department">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>TCE</item>
+        <item>BTE</item>
+        <item>EEE</item>
+        <item>ME</item>
+    </string-array>
+</resources>
